@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Домашная робота\ClassFreezer\bin\Debug\ClassFreezer.exe.config
+F:\ITStep\2 курс\C#\Домашная робота\ClassFreezer\bin\Debug\ClassFreezer.exe
+F:\ITStep\2 курс\C#\Домашная робота\ClassFreezer\bin\Debug\ClassFreezer.pdb
+F:\ITStep\2 курс\C#\Домашная робота\ClassFreezer\obj\Debug\ClassFreezer.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Домашная робота\ClassFreezer\obj\Debug\ClassFreezer.exe
+F:\ITStep\2 курс\C#\Домашная робота\ClassFreezer\obj\Debug\ClassFreezer.pdb
